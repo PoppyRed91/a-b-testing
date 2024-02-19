@@ -1,0 +1,15 @@
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.button-section {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.button {
+    font-size: 2rem;
+    color: white;
+}
